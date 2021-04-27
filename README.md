@@ -5,4 +5,4 @@ Os assets são de domínio público.
 
 Imagem:
 
-<img src="Exemplo.png" alt="My cool logo"/>
+<img src="Exemplo.png" alt="Imagem 1"/>
